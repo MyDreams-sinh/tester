@@ -33,15 +33,6 @@ a {
     padding: 20px;
 }
 
-.page__main {
-    /* Ảnh nền của trang đầu tiên nếu bạn muốn đổi thì đổi tại đây */
-    background-clip: url("../mp4/Video-2.mp4");
-    /* background-repeat: no-repeat; */
-    margin: 0;
-    padding: 0;
-    background-size: cover ;
-    background-position: top; /* Center the background image */
-}
 .buttons {
     display: flex;
     column-gap: 3rem;
